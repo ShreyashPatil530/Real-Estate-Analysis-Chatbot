@@ -186,7 +186,7 @@ MIT License
 
 ## 👨‍💻 Author
 
-Your Name - Sigmavalue Full Stack Developer Assignment
+Shreyash Patil - Sigmavalue Full Stack Developer Assignment
 
 ## 🙏 Acknowledgments
 
